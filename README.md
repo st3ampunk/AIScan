@@ -1,16 +1,3 @@
-# AI_Startup_Prototype
-This is the code for "Watch Me Build an AI Startup" By Siraj Raval on Youtube
-
-# Overview 
-
-This is the code for [this](https://youtu.be/NzmoPqte4V4) video on Youtube by Siraj Raval on how to build an AI Startup. It contains the transfer learning notebook and the notes from the video as a notebook as well. 
-
-
-
-![License](http://img.shields.io/:license-mit-blue.svg)
-
-A fork of [Max Halford's](https://github.com/MaxHalford) [flask-boilerplate](https://github.com/MaxHalford/flask-boilerplate) and https://github.com/alectrocute/flaskSaaS/edit/master/README.md
-
 ## Features
 
 - [x] User account sign up, sign in, password reset, all through asynchronous email confirmation.
